@@ -22,7 +22,7 @@ int main(void)
 	scanf("%d", &c);
 	val = a + b + c;
 	printf(":%d\n", val);
-
+	
 
 	   	   
 	return 0;
